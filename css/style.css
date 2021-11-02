@@ -1,0 +1,13 @@
+@import url(normalize.css);
+@import url(global.css);
+
+
+.list__item:not(:last-child) {
+	margin-bottom: 40px;
+}
+
+.list__item-title {
+	color:#fff;
+	font-size: 26px;
+}
+
